@@ -7,6 +7,7 @@
 </template>
 
 <script>
+import { mapState } from "vuex";
 import UserProfile from "@/components/UserProfile.vue";
 import UserSearchForm from "@/components/UserSearchForm.vue";
 
@@ -18,10 +19,10 @@ const components = {
 export default {
   name: "UserView",
   components,
-  data() {
-    return {
-      user: {}
-    };
+  computed: {
+    ...mapState({
+      user: "user"
+    })
   }
 };
 </script>
