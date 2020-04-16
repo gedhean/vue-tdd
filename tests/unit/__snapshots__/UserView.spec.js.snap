@@ -3,5 +3,7 @@
 exports[`UserView should render 1`] = `
 <div>
   User View
+  <user-search-form-stub></user-search-form-stub>
+  <user-profile-stub user="[object Object]"></user-profile-stub>
 </div>
 `;

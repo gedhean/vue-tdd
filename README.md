@@ -2,7 +2,8 @@
 > I am having a lot of fun! 
 
 - [X] [Working an application in Vue.js with TDD — An extensive guide for people who have time — part 1](https://medium.com/magnetis-backstage/working-an-application-in-vue-js-with-tdd-an-extensive-guide-for-people-who-have-time-part-1-3be791dafa2b)
-- [ ] [Working an application in Vue.js with TDD — An extensive guide for people who have time — part 2](https://medium.com/magnetis-backstage/working-an-application-in-vue-js-with-tdd-an-extensive-guide-for-people-who-have-time-part-2-12ec77b15d96)
+- [X] [Working an application in Vue.js with TDD — An extensive guide for people who have time — part 2](https://medium.com/magnetis-backstage/working-an-application-in-vue-js-with-tdd-an-extensive-guide-for-people-who-have-time-part-2-12ec77b15d96)
+- [ ] [Working an application in Vue.js with TDD — An extensive guide for people who have time — part 3](https://medium.com/magnetis-backstage/working-an-application-in-vue-js-with-tdd-an-extensive-guide-for-people-who-have-time-part-3-7a68ad3f5fb1)
 
 ## Project setup
 ```
